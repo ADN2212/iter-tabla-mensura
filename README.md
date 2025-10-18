@@ -2,7 +2,7 @@
 
 **Iter Tabla Mensura** es una herramienta desarrollada en **Python** para automatizar la creación de los **cuadros de construcción** de los **planos catastrales** que se depositan en la **Dirección Regional de Mensuras Catastrales** de la **República Dominicana**.  
 
-El programa procesa uno o varios archivos de texto que pueden estar en dos formatos diferentes, explicados en el siguiente video: [Ver video explicativo](url_video)
+El programa procesa uno o varios archivos de texto que pueden estar en dos formatos diferentes, explicados en el siguiente video: [Ver video explicativo](https://drive.google.com/file/d/1UHX0GLR2fYpuX8lM41lo6qtbUNeyMCJi/view?usp=drive_link)
 
 ---
 
